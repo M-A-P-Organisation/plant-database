@@ -1,5 +1,5 @@
 <h1>plant-database <br>
-<img src="https://img.shields.io/github/repo-size/M-A-P-Organisation/plant-database">
+<img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/M-A-P-Organisation/plant-database/PlantDB_5335_U0.csv?label=csv%20size">
 <img src="https://img.shields.io/github/license/M-A-P-Organisation/plant-database">
 </h1>
 
